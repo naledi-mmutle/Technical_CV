@@ -36,7 +36,7 @@ class App extends Component {
   componentDidMount(){
     this.getResumeData();
   }
-
+erwerwerwe
   render() {
     return (
       <div className="App">
