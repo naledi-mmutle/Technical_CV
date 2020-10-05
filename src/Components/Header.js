@@ -14,8 +14,8 @@ class Header extends Component {
     }
 
     return (
+    
       <header id="home">
-
       <nav id="nav-wrap">
 
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
@@ -46,8 +46,8 @@ class Header extends Component {
       <p className="scrolldown">
          <a className="smoothscroll" href="#about"><i className="icon-down-circle"></i></a>
       </p>
-
    </header>
+   
     );
   }
 }

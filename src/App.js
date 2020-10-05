@@ -3,6 +3,7 @@ import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
 import Header from './Components/Header';
+import About from './Components/About';
 
 class App extends Component {
 
@@ -36,11 +37,12 @@ class App extends Component {
   componentDidMount(){
     this.getResumeData();
   }
-erwerwerwe
+
   render() {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
+        <About data={this.state.resumeData.main}/>
       </div>
     );
   }
