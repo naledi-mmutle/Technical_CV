@@ -1,8 +1,8 @@
 {
   "main": {
     "name":"Naledi Mmutle",
-    "occupation":"Web-developer",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "occupation":"Full-Stack Web-developer",
+    "description":"Recently graduated with a Bachelors degree in Information Technology, a driven, innovative, versatile and responsible young man, so yess.. more about me below ",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
@@ -41,11 +41,6 @@
         "name":"github",
         "url":"https://github.com/naledi-mmutle",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -53,16 +48,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"North West University?",
+        "school":"North West University",
         "degree":"Bachelor of Science in Information Technology",
         "graduated":"April 2020",
-        "description":""
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "description":"Best 3 years of my life doing this degree!"
       }
     ],
     "work":[
