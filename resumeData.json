@@ -1,0 +1,110 @@
+{
+  "main": {
+    "name":"Naledi Mmutle",
+    "occupation":"Full-Stack Web-developer",
+    "description":"Recently graduated with a Bachelors degree in Information Technology, a driven, innovative, versatile and responsible young man, so yess.. more about me below ",
+    "image":"profilepic.jpg",
+    "bio":"I’m a software engineer/Web-developer who loves building mobile and web applications. I enjoy working with the full technology stack, from front to backend and everything inbetween. More especially, I enjoy seeing myself do magic with code and the reactions of the people I'm working with when they see my work. Most importantly, I'm always eager to learn new languages/frameworks. Born and bred in Bothaville - a small farming town in the Free State province, South Africa.",
+    "contactmessage":"",
+    "email": "naledi14mmutle@gmail.com",
+    "phone": "064-571-0860",
+    "address":{
+      "street":"50 Molen Street",
+      "city":"Potchefstroom",
+      "state":"North West",
+      "zip": "2570"
+    },
+    "website": "",
+    "resumedownload":"",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/naledi.mmutle",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/NalediMmutle",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/naledi-mmutle-2435aa1b7/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/naledi_mmutle/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/naledi-mmutle",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"North West University",
+        "degree":"Bachelor of Science in Information Technology",
+        "graduated":"April 2020",
+        "description":"Best 3 years of my life doing this degree! I can proudly say i've learnt 3 of the most important life lessons throughout the coarse of my degree at the Potchefstroom campus, which are 1. learn to love learning 2. Learn to work and interact with others and 3. Learn what is available. There is alot more to share but will keep it brief for attentions sake"
+      }
+    ],
+    "work":[
+      {
+        "company":"Auxigen",
+        "title":"Chief Technology Officer",
+        "years":"August 2019 - Present",
+        "description":"Auxigen is a digital music promotions platform that was developed by me and a few friends on the NWU-Potch campus, we used the django web development framework for ur backend and reactJS for our frontend with django-rest-framework to rest our API. It has been abit more than a year in production and the project is doing great and we are always looking to use new technologies and also keep doing something we love (dev!)"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"MS office package",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Auxigen",
+        "category":"A Music Promotions/Discovery Platform developed by yours truly and co.",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://auxigen.online/about"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+    ]
+  }
+}
