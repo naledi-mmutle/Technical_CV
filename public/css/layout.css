@@ -23,7 +23,6 @@
 /* ------------------------------------------------------------------ */
 
 body { background: #0f0f0f; }
-
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
@@ -215,8 +214,8 @@ ul#nav li.current a { color: #00f094; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 250px;
+   height: 250px;
    border-radius: 30%;
    border: 2px solid #00f094; 
    float: left;
@@ -340,7 +339,9 @@ ul#nav li.current a { color: #00f094; }
   overflow: hidden;
 }
 #pie {
+
     height: 550px;
+    
 }
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section

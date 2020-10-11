@@ -17,8 +17,8 @@ export const dataSource = [{
   skill: 'Angular',
   percent: 50
 }, {
-  skill: 'VueJS',
-  percent: 40
+  skill: 'SQL',
+  percent: 80
 }, {
   skill: 'PHP',
   percent: 65
