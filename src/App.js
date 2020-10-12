@@ -13,6 +13,7 @@ import SearchBar from './Components/Searchbar';
 import youtube from './apis/youtube';
 import VideoList from './Components/VideoList';
 import VideoDetail from './Components/VideoDetail';
+import Api from './api';
 
 import PieChart, {
   Legend,
@@ -56,7 +57,7 @@ class App extends Component {
     }
   getResumeData(){
     $.ajax({
-      url:'/resumeData.json',
+      url:'/Technical_CV/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
@@ -102,9 +103,10 @@ class App extends Component {
               </Series>
             </PieChart>
           </div>
+          <Api />
           <Portfolio data={this.state.resumeData.portfolio}/>
            <Footer data={this.state.resumeData.main}/>
-
+           
            <div className='ui container' style={{marginTop: '1em'}}>
                 <SearchBar handleFormSubmit={this.handleSubmit}/>
                 <div className='ui grid'>
